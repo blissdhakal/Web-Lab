@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(251, 229, 241);
+}
+
+
+/**** Lab01014****/
+#logoImg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    width: 50%;
+
+}
+
+.para{
+    margin-left: 20px;
+    margin-top: 20px;
+    
+}
+
+/**** Lab01016****/
+.topic{
+    font-weight: bolder;
+    margin-left: 30px;
+}
